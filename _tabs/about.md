@@ -11,3 +11,9 @@ I love building smart, user-friendly solutions that blend functionality with cre
 Outside the tech world, I’m all about music, fashion, and long drives — the perfect combo for recharging my creative energy. Whether I’m debugging or daydreaming new ideas, I bring passion, precision, and a touch of style to everything I do.
 
 Let’s create something meaningful, innovative, and a little bit magical ✨
+
+## 📄 My CV
+
+You can download my CV below:
+
+[Download CV](https://gachombamuthiri.github.io/assets/Agnes Gachomba.cv.pdf){: .btn .btn--primary }
